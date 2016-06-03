@@ -16,7 +16,7 @@ Store the file in your current directory and in your program write
 from dataStore import DataStore
 ````
 
-This wil import the *DataStore* class in your code.
+This will import the *DataStore* class in your code.
 
 ####Create a Dastore Object
 You need to create an object from the *Datastore* class, just write
